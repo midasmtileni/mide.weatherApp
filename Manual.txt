@@ -1,31 +1,12 @@
-This can be run on browsers and android devices
+You will need:
 
-Browser:
-
-There are number of ways to run this. First extract the attatched zip folder.
-
-You can use IIS To run this app on the browser, or
- you must have Cordova/Phonegap/Ionic Framework installed
- in your computer.
-
-- And then  locate the zip folder using your command prompt.
-- run "ionic serve" or "ionic run browser".
-
-Android devices:
-
-In the android phone or tablet, there's an .apk file attatched. Please install it.
-
-Should you have problems running it, please don't hesitate to contact me.
-
-Instructions:
-
-1 to 6 answered
-
-Bonus:
-
-1. I used ionic serve instead, it shows your changes same time(Haven't setup gulp or grunt before)
-2. I've never used sass before, I used the normal css though
-
+- To add platforms
+- The following plugins:  * com.ionic.keyboard
+                          * cordova-plugin-console
+                          * cordova-plugin-device
+                          * cordova-plugin-geolocation
+                          * cordova-plugin-splashscreen
+                          * cordova-plugin-whitelist
 What the app offers:
 
 - It shows weather background and weather icon based on the weather and time of the day.
@@ -33,10 +14,4 @@ What the app offers:
 - It shows the current weather description
 - It has a refresh button which refreshes your location and current weather.
 
-
-Grace gomolemo
-
-Ndoyisile Jali
-
-Ndumiso Mahlangu
 
